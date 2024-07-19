@@ -23,7 +23,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install numpy matplotlib
-
+```
 
 ### Running the Simulation
 
