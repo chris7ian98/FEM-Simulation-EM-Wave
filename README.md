@@ -30,3 +30,11 @@ pip install numpy matplotlib
 You can change the parameters in test.py and run the simulation.
 After running test.py, you will see two plots: one showing the material parameters and another showing the original wave.
 After a short time (depending on the parameters such as the number of finite elements, the order of the shape functions, etc.), the animation of the numerical solution begins.
+
+<img src="img_simulation/material_parameter.png" alt="Simulation Result" width="600"/>
+
+<img src="img_simulation/welle_anregung.png" alt="Simulation Result" width="600"/>
+
+<img src="img_simulation/simulation_img1.png" alt="Simulation Result" width="600"/>
+
+<img src="img_simulation/simulation_img2.png" alt="Simulation Result" width="600"/>
